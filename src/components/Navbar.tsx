@@ -22,7 +22,7 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 w-full z-50 glass-nav flex justify-between items-center px-8 py-4 max-w-full transition-all duration-300">
       <Link to="/" className="text-2xl font-bold tracking-tight text-white font-headline">
-        Instituto Stemmer
+        How V
       </Link>
       
       <div className="hidden md:flex items-center gap-8">

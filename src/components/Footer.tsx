@@ -7,12 +7,12 @@ export default function Footer() {
     <footer className="bg-primary w-full py-16">
       <div className="max-w-7xl mx-auto px-8 grid grid-cols-1 md:grid-cols-3 gap-12">
         <div className="space-y-4">
-          <div className="text-xl font-bold text-white font-headline">Instituto Stemmer</div>
+          <div className="text-xl font-bold text-white font-headline">How V</div>
           <p className="text-slate-400 text-sm leading-relaxed max-w-xs">
             Transformando o futuro através da tecnologia e da educação de alto nível para jovens de escolas públicas.
           </p>
           <p className="text-slate-500 text-xs pt-4">
-            © 2024 Instituto Stemmer. Todos os direitos reservados.
+            © 2024 How V. Todos os direitos reservados.
           </p>
         </div>
 

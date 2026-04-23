@@ -140,7 +140,7 @@ export default function Home() {
             </h2>
             <div className="space-y-4 text-on-surface-variant text-lg leading-relaxed">
               <p>
-                O Instituto Stemmer nasceu para continuar o legado do "pai da engenharia em Santa Catarina". Assim como ele construiu a base do ecossistema tecnológico de Florianópolis, queremos construir a base para a próxima geração.
+                How V nasceu para continuar o legado do "pai da engenharia em Santa Catarina". Assim como ele construiu a base do ecossistema tecnológico de Florianópolis, queremos construir a base para a próxima geração.
               </p>
               <p>
                 Nossa missão é democratizar o acesso à educação tecnológica de qualidade, reduzindo a barreira de entrada para jovens de baixa renda no mercado tech.

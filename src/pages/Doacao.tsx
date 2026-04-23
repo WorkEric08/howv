@@ -18,7 +18,7 @@ export default function Doacao() {
               Sua doação transforma vidas através da tecnologia
             </h1>
             <p className="text-on-primary-container text-lg md:text-xl mb-8 max-w-lg leading-relaxed">
-              Apoie o Instituto Stemmer na missão de capacitar a próxima geração de líderes tecnológicos em comunidades de vulnerabilidade social.
+              Apoie How V na missão de capacitar a próxima geração de líderes tecnológicos em comunidades de vulnerabilidade social.
             </p>
             <div className="flex flex-wrap gap-4">
               <a href="#donate-form" className="bg-secondary-container text-on-secondary-container px-8 py-4 rounded-full font-bold text-lg transition-transform hover:scale-105 active:scale-95 shadow-lg">
@@ -144,7 +144,7 @@ export default function Doacao() {
                 {[1, 2, 3, 4, 5].map(i => <Star key={i} size={16} className="fill-current" />)}
               </div>
               <p className="italic text-on-surface-variant mb-6 text-sm leading-relaxed">
-                "Antes do Instituto Stemmer, a tecnologia parecia um sonho distante. Hoje, estou cursando Engenharia de Software graças à base que recebi. Minha vida mudou completamente."
+                "Antes de How V, a tecnologia parecia um sonho distante. Hoje, estou cursando Engenharia de Software graças à base que recebi. Minha vida mudou completamente."
               </p>
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 rounded-full bg-surface-container-high" />
